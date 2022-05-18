@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
 @import "./home.css";
 @import "./signin.css";
+@import "./dashboard.css";
 
 :root {
   --color-primary: #ec6b44;
@@ -68,9 +69,8 @@ body {
 }
 
 a{
-color: var(--color-white);
-text-align: center;
-display: inline-block;
+ text-align: center;
+ display: inline-block;
 }
 
 .text-primary{
